@@ -40,7 +40,5 @@ This book is designed to give you the knowledge, tools, and confidence to be an 
 * Have a development environment setup
 * Understand the basics of the OpenMRS system
 * Be able to troubleshoot OpenMRS with resources in the community.
-* Know where to go to get started with your first contributions to the community.
-
-> By the end of this book, you'll be an OpenMRS developer, contributor, and community member!
-
+* Know where to grst contributionsS developer, contributor, and community member!
+I will use this in open mrs
